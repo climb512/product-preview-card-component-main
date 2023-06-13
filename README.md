@@ -4,29 +4,17 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-
-
+Frontend-Mentor-Product-preview-card-component.png
 
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
-- Grid
 - Mobile-first workflow
 
 ### What I learned
 
-
-
-
-### Useful resources
-
-- Andy Bell's CSS Reset
-https://andy-bell.co.uk/a-modern-css-reset/
-
-- Useful, friendly introductions to Flexbox and Grid. Videos and Cheatsheets.
-https://www.youtube.com/c/joyshaheb
-
+Basic design project.  I used this project to focus on working efficiently, and getting better with Flexbox.
 
 ## Author
 
